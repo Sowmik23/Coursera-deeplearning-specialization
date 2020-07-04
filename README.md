@@ -27,10 +27,9 @@
  - [Week 04: Deep Neural Network - Application](https://github.com/Sowmik23/deeplearning-Coursera/tree/master/1_Neural%20Networks%20and%20Deep%20Learning/week04/Deep%20Neural%20Network%20-%20Application)
  
 
-##### Recommended papers:
--
--
+##### Research papers that are discussed:
 
+ - N/A
 
 ## Course 02: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 ##### Overview/Topics:
@@ -54,9 +53,9 @@
   - [Week 03: Tensorflow](https://github.com/Sowmik23/deeplearning-Coursera/blob/master/2_Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week03/Tensorflow/TensorFlow_Tutorial_v3b.ipynb)
   
 
-##### Recommended papers:
--
--
+##### Research papers that are discussed:
+  
+  - N/A
 
 
 ## Course 03: Structuring Machine Learning Projects
@@ -73,9 +72,9 @@
   - [Week 02: N/A]
   
  
-##### Recommended papers:
--
--
+##### Research papers that are discussed:
+
+ - N/A
 
 
 ## Course 04: Convolutional Neural Networks
@@ -104,10 +103,17 @@
   - [Week 04: Face Recognition](https://github.com/Sowmik23/deeplearning-Coursera/blob/master/4_Convolutional%20Neural%20Networks/week04/Face%20Recognition/Face_Recognition_v3a.ipynb)
   
   
-##### Recommended papers:
--
--
+##### Research papers that are discussed:
 
+- *Classic networks:* [Gradient-based learning applied to document recognition](https://ieeexplore.ieee.org/abstract/document/726791/?casa_token=-O-KCoY4CmEAAAAA:2C6NHTuIxoMmGz183pgJQbXS5WjC2HQEWk1qihFI1SU6gDUUuTvgn8wqHN1en2QF3Ht2p9i6PkwlZGI)
+- *Classic networks:* [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networ)
+- *Classic networks:* [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
+- *ResNet:* [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html)
+- *1x1 convolution:* [Network In Network](https://arxiv.org/abs/1312.4400)
+- *Inception network:* [Going Deeper With Convolutions](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Szegedy_Going_Deeper_With_2015_CVPR_paper.html)
+- *Convolutional inplementation with sliding windows:* [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](https://arxiv.org/abs/1312.6229)
+- *Bounding box predictions:* [You Only Look Once: Unified, Real-Time Object Detection](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)
+- *Region proposal: R-CNN:* [Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation](https://openaccess.thecvf.com/content_cvpr_2014/html/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.html)
 
 
 ## Course 05: Sequence Models
@@ -134,8 +140,48 @@
   
   - [Week 04: Trigger word detection](https://github.com/Sowmik23/deeplearning-Coursera/blob/master/5_Sequence%20Models/week03/Trigger%20word%20detection/Trigger_word_detection_v1a.ipynb)
 
-###### Recommended papers:
-*
-*
+##### Research papers that are discussed:
+- *Siamese network*: [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Taigman_DeepFace_Closing_the_2014_CVPR_paper.html)
+
+- *Triplet Loss*: [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Schroff_FaceNet_A_Unified_2015_CVPR_paper.html)
+
+- *Style transfer:* [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
+
+- *GRU:* [On the Properties of Neural Machine Translation: Encoder-Decoder Approaches](https://arxiv.org/abs/1409.1259)
+
+- *GRU:* [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/abs/1412.3555)
+
+- *LSTM:* [Long Short-Term Memory](https://www.mitpressjournals.org/doi/abs/10.1162/neco.1997.9.8.1735)
+
+- *Word embedding:* [Visualizing Data using t-SNE](http://www.jmlr.org/papers/v9/vandermaaten08a.html)
+
+- *Word embedding:* [Linguistic Regularities in Continuous Space Word Representations](https://www.aclweb.org/anthology/N13-1090.pdf)
+
+- *Language model:* [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/v3/bengio03a.html?source=post_page---------------------------)
+
+- *Negative sampling:* [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and)
+
+- *Debiasing word embedding:* [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](http://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-d)
+
+- *RNN:* [Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)](https://arxiv.org/abs/1412.6632)
+
+- *RNN:* [Show and Tell: A Neural Image Caption Generator](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Vinyals_Show_and_Tell_2015_CVPR_paper.html)
+
+- *RNN:* [Deep Visual-Semantic Alignments for Generating Image Descriptions](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.html)
+
+- *Bleu:* [BLEU: a Method for Automatic Evaluation of Machine Translation](https://www.aclweb.org/anthology/P02-1040.pdf)
+
+- *NMT:* [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
+
+- *Attention model:* [Show, Attend and Tell: Neural Image Caption
+Generation with Visual Attention](http://proceedings.mlr.press/v37/xuc15.pdf)
+
+- *CTC:* [Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks](https://dl.acm.org/doi/abs/10.1145/1143844.1143891?casa_token=IYKw6d1d1uEAAAAA%3ApZPPP_kIivFm9CRdkpuWtvLxL-4jH4gzKxp-Ld5oWHrJ6JbAN3guhXOG6zeuwREmQYjPdkNz9GXRpFg)
 
 
+
+## Important Links
+
+- [Reading List](http://deeplearning.net/reading-list/)
+- [Summaries of papers on deep learning.](https://github.com/Sowmik23/papers)
+- [Test your AI/Deep learning skill](https://workera.ai/?utm_source=coursera_sequence_models&utm_medium=Coursera&utm_campaign=coursera_sequence_models)
