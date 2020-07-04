@@ -1,8 +1,8 @@
 # Coursera-Deep Learning by Andrew Ng
 - Course: https://www.coursera.org/specializations/deep-learning?
 - Offered by: https://www.deeplearning.ai/
-- Instructor: Andrew Ng
-- My certificates: 
+- Instructor: https://www.andrewng.org/
+- My certificates: https://www.coursera.org/account/accomplishments/specialization/55B8USWRBGBQ
 
 
 ## Course 01: Neural Networks and Deep Learning
@@ -13,8 +13,26 @@
 * Deep L-layer network, forward propagation, parameters and hyperparameters
 * Buildin a deep neural network step by step
 
-###### Assignments:
+###### Programming Assignments:
+ **Week 01:** 
+ 
+    * N/A 
+ **Week 02:**   
+ 
+    * [Python Basics with numpy (optional)](https://github.com/JamesMcGuigan/coursera-deeplearning-specialization/blob/master/01_Neural_Networks_and_Deep_Learning/Week%202/Python%20Basics%20with%20Numpy/Python_Basics_With_Numpy_v3a.ipynb)
+    * [Logistic Regression with a Neural Network mindset](https://github.com/Sowmik23/deeplearning-Coursera/tree/master/1_Neural%20Networks%20and%20Deep%20Learning/week02/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset)
+ **Week 03:**
+ 
+    * [Planar data classification with a hidden layer](https://github.com/Sowmik23/deeplearning-Coursera/tree/master/1_Neural%20Networks%20and%20Deep%20Learning/week03/Planar%20data%20classification%20with%20a%20hidden%20layer)
+ **Week 04:**
+ 
+    * [Building your Deep Neural Network: Step by Step](https://github.com/Sowmik23/deeplearning-Coursera/tree/master/1_Neural%20Networks%20and%20Deep%20Learning/week04/Building%20your%20Deep%20Neural%20Network:%20Step%20by%20Step)
+    * [Deep Neural Network - Application](https://github.com/Sowmik23/deeplearning-Coursera/tree/master/1_Neural%20Networks%20and%20Deep%20Learning/week04/Deep%20Neural%20Network%20-%20Application)
+ 
 
+###### Recommended papers:
+*
+*
 
 
 ## Course 02: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
@@ -27,8 +45,22 @@
 * Hyperperameter tunning process, Batch normalization, Softmax regression
 * Understanding deep learning framworks: Tensorflow
 
-###### Assignments:
+###### Programming Assignments:
+  **Week 01:**
+  
+    * []()
+    * []()
+    * []()
+  **Week 02:**
+  
+    * []()
+    * []()
+    
+  
 
+###### Recommended papers:
+*
+*
 
 
 ## Course 03: Structuring Machine Learning Projects
@@ -39,8 +71,17 @@
 * Transfer learning, Multitask learning, End-to-end deep learning
 * Machine Learning flight simulator
 
-###### Assignments:
+###### Programming Assignments:
+  **Week 01:**
+  
+    * N/A
+  **Week 02:**
+  
+    * N/A
 
+###### Recommended papers:
+*
+*
 
 
 ## Course 04: Convolutional Neural Networks
@@ -53,8 +94,20 @@
 * Face recognition and verification: siamese network, triplet loss
 * Neural style transfer
 
-###### Assignments:
+###### Programming Assignments:
+  **Week 01:**
+  
+    * []()
+    * []()
+    * []()
+  **Week 02:**
+  
+    * []()
+    * []()
 
+###### Recommended papers:
+*
+*
 
 
 
@@ -67,7 +120,19 @@
 * Sequence to sequence architecture: Beam search, Bleu score, Attention model
 * Speech recognition
 
-###### Assignments:
+###### Programming Assignments:
+  **Week 01:**
+  
+    * []()
+    * []()
+    * []()
+  **Week 02:**
+  
+    * []()
+    * []()
 
+###### Recommended papers:
+*
+*
 
 
